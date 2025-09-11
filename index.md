@@ -5,7 +5,7 @@ title: Home
 
 # Welcome
 
-[About Me](about.md) | [Research](research.md) | [News](news.md) | [Contact Information](contact.md) | # - [CV] 
+[About Me](about.md) | [Research](research.md) | [News](news.md) | [Contact](contact.md)
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 2; padding-right: 20px;">
@@ -14,7 +14,7 @@ title: Home
   </div>
   <div style="flex: 1;">
     <img src="images/DSC05189.JPG" alt="Nate Cook" 
-         style="width: 100%; object-fit: cover;">
+         style="width: 100%; height: auto; object-fit: cover;">
   </div>
 </div>
 
