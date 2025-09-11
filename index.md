@@ -4,7 +4,7 @@ title: Nate Cook
 ---
 
 <div style="float: right; margin-left: 20px;">
-  <img src="me.jpg" alt="Nate Cook" width="200" style="border-radius: 50%; object-fit: cover;">
+  <img src="images/DSC05189.JPG" alt="Nate Cook" width="200" style="border-radius: 50%; object-fit: cover;">
 </div>
 
 # Welcome
