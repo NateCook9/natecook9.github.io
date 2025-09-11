@@ -20,9 +20,9 @@ Upload your CV file as `cv.pdf` into this repository, and this link will allow v
 ## Research Interests
 
 - Heritage speaker bilingualism  
-- Emotion and cognition in language learning  
-- Lexical and supralexical indices  
-- Psychophysiological measurement (EDA, LPP, etc.)  
+- Emotion in language learning  
+- Language-usage indices in Bilingual Production (lexical and lexico-grammatical metrics)  
+- Psychophysiological measurement (EDA, EEG, etc.)  
 - Computational linguistics and NLP pipelines  
 
 ---
