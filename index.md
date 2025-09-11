@@ -5,7 +5,7 @@ title: Nate Cook
 
 # Welcome
 
-Hi! I'm **Nate Cook**, a PhD student researching **bilingualism**, **emotion**, and **psycholinguistic responses** such as electrodermal activity (EDA).
+Hi! I'm **Nate Cook**, a PhD student researching **language**, **bilingualism**, and **emotion** at the University of Illinois Chicago.
 
 This site is a hub for my academic work, ongoing projects, and research materials.
 
