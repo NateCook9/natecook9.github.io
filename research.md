@@ -3,6 +3,8 @@ layout: default
 title: Research
 ---
 
+[Home](index.md) | [About](about.md) | [Research](research.md) | [News](news.md) | [Contact](contact.md)
+
 # Research
 
 ---
