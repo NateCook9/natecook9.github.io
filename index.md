@@ -3,6 +3,10 @@ layout: default
 title: Nate Cook
 ---
 
+<div style="float: right; margin-left: 20px;">
+  <img src="me.jpg" alt="Nate Cook" width="200" style="border-radius: 50%; object-fit: cover;">
+</div>
+
 # Welcome
 
 Hi! I'm **Nate Cook**, a PhD student researching **language**, **bilingualism**, and **emotion** at the University of Illinois Chicago.
