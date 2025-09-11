@@ -1,42 +1,24 @@
 ---
 layout: default
-title: Nate Cook
+title: Home
 ---
 
-<div style="float: right; margin-left: 20px;">
-  <img src="images/DSC05189.JPG" alt="Nate Cook" width="200" style="border-radius: 50%; object-fit: cover;">
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 2; padding-right: 20px;">
+    <h1>Welcome to My Site 👋</h1>
+    <p>Hi, I’m Nate! This is my GitHub Pages site...</p>
+  </div>
+  <div style="flex: 1;">
+    <img src="images/DSC05189.JPG" alt="Nate Cook" 
+         style="width: 100%; object-fit: cover;">
+  </div>
 </div>
+
 
 # Welcome
 
-Hi! I'm **Nate Cook**, a PhD student researching **language**, **bilingualism**, and **emotion** at the University of Illinois Chicago.
+- [About Me](about.md)
+- [Research](research.md)
+- [News](news.md)
+- [Contact Information](contact.md)
 
-This site is a hub for my academic work, ongoing projects, and research materials.
-
----
-
-## [Download my CV](cv.pdf)
-
-Upload your CV file as `cv.pdf` into this repository, and this link will allow visitors to download it.
-
----
-
-## Research Interests
-
-- Heritage speaker bilingualism  
-- Emotion in language learning  
-- Language-usage indices in Bilingual Production (lexical and lexico-grammatical metrics)  
-- Psychophysiological measurement (EDA, EEG, etc.)  
-- Computational linguistics and NLP pipelines  
-
----
-
-## Contact Me
-
-You can reach me at: [ncook9@uic.edu](mailto:ncook9@uic.edu)
-
-Or visit my [GitHub profile](https://github.com/natecook9) to see code and projects.
-
----
-
-Thanks for visiting!
