@@ -7,5 +7,5 @@ title: Nate Cook
 
 # Contact
 
-- email: ncook9@uic.edu [Email](mailto:ncook9@uic.edu)
-- github: natecook9 [github](https://github.com/NateCook9)
+- email: [ncook9@uic.edu](mailto:ncook9@uic.edu)
+- github: [natecook9](https://github.com/NateCook9)
