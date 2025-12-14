@@ -2,7 +2,7 @@
 layout: default
 title: Nate Cook
 ---
-[Home](index.md) | [Research](research.md) | [Contact](contact.md)
+
 # Home
 ### Welcome
 <div style="display: flex; align-items: center; justify-content: space-between;">
