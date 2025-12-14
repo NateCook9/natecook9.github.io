@@ -74,39 +74,51 @@
 }
 
 /* =========================================================
-   Presentation layout (image right, text left)
+   Sticky photo + scrolling text layout
    ========================================================= */
 
-.presentation-block {
+.sticky-split {
   display: flex;
+  gap: 2.5rem;
   align-items: flex-start;
-  justify-content: space-between;
-  gap: 3rem;
   margin-top: 1.5rem;
 }
 
-.presentation-text {
-  max-width: 42rem;
-  flex: 1 1 auto;
+/* Left/right columns */
+.sticky-media {
+  flex: 0 0 320px;       /* width of image column */
+  position: sticky;
+  top: 1.25rem;          /* distance from top of viewport */
 }
 
-.presentation-image {
-  flex: 0 0 260px;
-}
-
-.presentation-image img {
+.sticky-media img {
   width: 100%;
   height: auto;
   border-radius: 12px;
+  display: block;
 }
 
-/* Mobile: stack cleanly */
-@media (max-width: 800px) {
-  .presentation-block {
+/* Optional caption */
+.sticky-caption {
+  font-size: 0.9rem;
+  opacity: 0.8;
+  margin-top: 0.5rem;
+}
+
+/* Text column */
+.sticky-text {
+  flex: 1 1 auto;
+  min-width: 0;          /* prevents overflow in flex layouts */
+}
+
+/* Mobile: stack instead of sticky */
+@media (max-width: 900px) {
+  .sticky-split {
     flex-direction: column;
   }
-
-  .presentation-image {
-    max-width: 320px;
+  .sticky-media {
+    position: static;    /* disable sticky on small screens */
+    flex: 0 0 auto;
+    max-width: 420px;
   }
 }
