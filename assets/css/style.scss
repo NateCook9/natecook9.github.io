@@ -63,3 +63,35 @@
     align-items: flex-start;
   }
 }
+
+/* --- Improve nav contrast & size for Cayman header --- */
+.top-nav {
+  margin-bottom: 0.5rem;
+}
+
+/* Brand (your name) */
+.nav-brand {
+  color: #ffffff;
+  font-size: 1.25rem;
+  letter-spacing: 0.02em;
+}
+
+/* Navigation links */
+.nav-links a {
+  color: #ffffff;
+  font-size: 1.05rem;
+  font-weight: 600;
+  text-decoration: none;
+  opacity: 0.95;
+}
+
+.nav-links a:hover {
+  opacity: 1;
+  text-decoration: underline;
+}
+
+/* Slight spacing polish */
+.nav-links {
+  gap: 1rem;
+}
+
