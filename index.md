@@ -6,7 +6,7 @@ permalink: /
 ---
 
 # Home
-
+---
 <div class="sticky-split">
   <aside class="sticky-media">
     <img src="/images/DSC05189.JPG" alt="Nate Cook Chicago Headshot">
