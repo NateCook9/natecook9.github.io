@@ -4,6 +4,7 @@ title: Presentations
 permalink: /presentations/
 ---
 # Conference Presentations and Posters
+---
 <div class="sticky-split">
   <aside class="sticky-media">
     <img src="/images/IMG_0309.jpg" alt="Nate Cook presenting research">
