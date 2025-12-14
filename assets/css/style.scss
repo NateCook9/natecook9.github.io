@@ -3,56 +3,65 @@
 
 @import "{{ site.theme }}";
 
-/* Reduce overall header height */
+/* =========================================================
+   Cayman tweaks: header + content spacing
+   ========================================================= */
+
 .page-header {
   padding-top: 1.25rem;   /* default is ~3rem */
   padding-bottom: 1.25rem;
+  margin-bottom: 0.5rem;  /* slight tighten under nav/header */
 }
 
-/* Tighten title spacing */
 .page-header h1 {
   margin-bottom: 0.25rem;
 }
 
-/* Tighten subtitle spacing */
 .page-header .project-tagline {
-  margin-top: 0;
-  margin-bottom: 0;
+  margin: 0;
 }
 
-/* tighter body spacing */
 .main-content {
   padding-top: 1.5rem;
 }
 
-/* --- top navigation --- */
+/* =========================================================
+   Top navigation (global)
+   ========================================================= */
+
 .top-nav {
   display: flex;
   align-items: center;
   justify-content: space-between;
   gap: 1rem;
   max-width: 64rem;
-  margin: 0 auto 0.75rem auto;
+  margin: 0 auto 0.5rem auto;
 }
 
 .nav-brand {
   font-weight: 700;
+  font-size: 1.25rem;
+  letter-spacing: 0.02em;
   text-decoration: none;
-  color: inherit;
+  color: #ffffff;
 }
 
 .nav-links {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.75rem;
+  gap: 1rem;
 }
 
 .nav-links a {
+  font-size: 1.05rem;
+  font-weight: 600;
   text-decoration: none;
+  color: #ffffff;
   opacity: 0.95;
 }
 
 .nav-links a:hover {
+  opacity: 1;
   text-decoration: underline;
 }
 
@@ -64,38 +73,10 @@
   }
 }
 
-/* --- Improve nav contrast & size for Cayman header --- */
-.top-nav {
-  margin-bottom: 0.5rem;
-}
+/* =========================================================
+   Presentation layout (image right, text left)
+   ========================================================= */
 
-/* Brand (your name) */
-.nav-brand {
-  color: #ffffff;
-  font-size: 1.25rem;
-  letter-spacing: 0.02em;
-}
-
-/* Navigation links */
-.nav-links a {
-  color: #ffffff;
-  font-size: 1.05rem;
-  font-weight: 600;
-  text-decoration: none;
-  opacity: 0.95;
-}
-
-.nav-links a:hover {
-  opacity: 1;
-  text-decoration: underline;
-}
-
-/* Slight spacing polish */
-.nav-links {
-  gap: 1rem;
-}
-
-/* --- Presentation layout --- */
 .presentation-block {
   display: flex;
   align-items: flex-start;
@@ -104,15 +85,13 @@
   margin-top: 1.5rem;
 }
 
-/* Text column: preserve readable line length */
 .presentation-text {
-  max-width: 42rem;   /* similar to centered Cayman text */
+  max-width: 42rem;
   flex: 1 1 auto;
 }
 
-/* Image column: pushed outward */
 .presentation-image {
-  flex: 0 0 260px;    /* fixed visual weight */
+  flex: 0 0 260px;
 }
 
 .presentation-image img {
