@@ -3,9 +3,11 @@ layout: default
 title: Nate Cook
 ---
 
-# Welcome
+# Home
 
 [Research](research.md) | [News](news.md) | [Contact](contact.md)
+
+## Welcome
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 2; padding-right: 20px;">
