@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Nate Cook
+description: University of Illinois Chicago | PhD student | Bilingualism, Emotion, Psychophysiology (EDA, EEG), Computational Linguistics/NLP
 permalink: /
 ---
 
