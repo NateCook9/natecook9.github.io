@@ -95,3 +95,39 @@
   gap: 1rem;
 }
 
+/* --- Presentation layout --- */
+.presentation-block {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 3rem;
+  margin-top: 1.5rem;
+}
+
+/* Text column: preserve readable line length */
+.presentation-text {
+  max-width: 42rem;   /* similar to centered Cayman text */
+  flex: 1 1 auto;
+}
+
+/* Image column: pushed outward */
+.presentation-image {
+  flex: 0 0 260px;    /* fixed visual weight */
+}
+
+.presentation-image img {
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+}
+
+/* Mobile: stack cleanly */
+@media (max-width: 800px) {
+  .presentation-block {
+    flex-direction: column;
+  }
+
+  .presentation-image {
+    max-width: 320px;
+  }
+}
