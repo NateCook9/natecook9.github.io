@@ -24,3 +24,42 @@
 .main-content {
   padding-top: 1.5rem;
 }
+
+/* --- top navigation --- */
+.top-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  max-width: 64rem;
+  margin: 0 auto 0.75rem auto;
+}
+
+.nav-brand {
+  font-weight: 700;
+  text-decoration: none;
+  color: inherit;
+}
+
+.nav-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+.nav-links a {
+  text-decoration: none;
+  opacity: 0.95;
+}
+
+.nav-links a:hover {
+  text-decoration: underline;
+}
+
+/* Mobile: stack brand + links */
+@media (max-width: 600px) {
+  .top-nav {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
