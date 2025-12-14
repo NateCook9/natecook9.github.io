@@ -1,2 +1,3 @@
 # natecook9.github.io
-Personal and Professional information about myself.
+PhD student, Hispanic & Italian Studies (UIC).  
+Research: bilingual lexical learning, emotion in narratives, psychophysiology (EDA), corpus/NLP methods.
