@@ -1,0 +1,21 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Reduce overall header height */
+.page-header {
+  padding-top: 1.25rem;   /* default is ~3rem */
+  padding-bottom: 1.25rem;
+}
+
+/* Tighten title spacing */
+.page-header h1 {
+  margin-bottom: 0.25rem;
+}
+
+/* Tighten subtitle spacing */
+.page-header .project-tagline {
+  margin-top: 0;
+  margin-bottom: 0;
+}
