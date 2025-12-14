@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Nate Cook
+permalink: /contact/
 ---
 
 # Contact
