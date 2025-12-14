@@ -8,14 +8,19 @@ permalink: /research/
 
 ---
 
-# Presentations
+<div class="sticky-split">
+  <aside class="sticky-media">
+    <img src="/images/DSC06533.jpg" alt="Nate Cook California Headshot">
+  </aside>
 
-**Cook, N. E.**, & Shin, G-H. (2026, April). *Lexical and lexico-grammatical predictors of heritage Spanish bilinguals’ productive proficiency: A replication of Kyle and Eguchi (2023)*. Poster presenting at the American Association of Corpus Linguistics Conference (AACL 2026), University of Florida, FL, USA.
+  <section class="sticky-text">
+    <p><strong>Bilingual Emotional Processing</strong>. My dissertation is about how bilinguals read disgusting narrative texts influencing their affective states measured through self-report and electrophysical measures of sympathetic arousal (skin conductance). Further, the influence of reading disgusting texts is examined in relation to lexical memory outcomes.</p>
+    <p><strong>Language Usage in Heritage Speakers</strong>. This work addresses this gap through two studies that replicate K&E’s methodological approach while incorporating sociolinguistic factors salient to HSB communities (generation and Spanish variety).</p>
 
-**Cook, N. E.**, & Shin, G-H. (2025, June). 
-*Bilingual spoken language proficiency and lexico-grammatical features in heritage Spanish: A Chicago-based replication of Kyle and Eguchi (2023)*. Paper presented at EuroSLA 34, Tromsø, Norway.
-
----
+    <h3>Other Interests</h3>
+    <p>I am also interested in other aspects of language and signal processing…</p>
+  </section>
+</div>
 
 # Publications
 
