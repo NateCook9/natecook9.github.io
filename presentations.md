@@ -10,9 +10,9 @@ permalink: /presentations/
 *Bilingual spoken language proficiency and lexico-grammatical features in heritage Spanish: A Chicago-based replication of Kyle and Eguchi (2023)*. Paper presented at EuroSLA 34, Tromsø, Norway.
 
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<div class="presentation-block">
 
-  <div style="flex: 2;">
+  <div class="presentation-text">
     <p>
       <strong>Cook, N. E.</strong>, &amp; Shin, G-H. (2026, April).
       <em>Lexical and lexico-grammatical predictors of heritage Spanish bilinguals’ productive proficiency:
@@ -29,11 +29,10 @@ permalink: /presentations/
     </p>
   </div>
 
-  <div style="flex: 1;">
+  <div class="presentation-image">
     <img src="/images/IMG_0309.jpg"
          alt="Nate Cook presenting research"
-         style="width: 100%; height: auto; border-radius: 12px;">
+         loading="lazy">
   </div>
 
 </div>
-
