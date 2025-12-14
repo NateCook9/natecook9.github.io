@@ -5,7 +5,7 @@ title: Nate Cook
 
 # Home
 
-[Research](research.md) | [News](news.md) | [Contact](contact.md)
+[Home](index.md) | [Research](research.md) | [News](news.md) | [Contact](contact.md)
 
 ## Welcome
 <div style="display: flex; align-items: center; justify-content: space-between;">
