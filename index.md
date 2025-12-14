@@ -30,7 +30,7 @@ permalink: /
 
     <p>
       You can download my
-      <a href="/assets/CV_NC.pdf">curriculum vitae</a>,
+      <a href="/assets/CV_NC.pdf" target="_blank" rel="noopener">curriculum vitae</a>,
       or visit the
       <a href="/contact/">Contact</a>
       page for more information about how to get in touch.
