@@ -3,8 +3,6 @@ layout: default
 title: Nate Cook
 ---
 
-[Home](index.md) | [Research](research.md) | [Contact](contact.md)
-
 # Contact
 
 - email: [ncook9@uic.edu](mailto:ncook9@uic.edu)
