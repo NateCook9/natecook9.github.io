@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Nate Cook
-permalink: /home/
+permalink: /
 ---
 
 # Home
