@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  </head>
+
+  <body>
+    <header class="page-header" role="banner">
+      <div class="top-nav">
+        <a class="nav-brand" href="{{ "/" | relative_url }}">{{ site.title }}</a>
+        <nav class="nav-links" aria-label="Primary">
+          <a href="{{ "/" | relative_url }}">Home</a>
+          <a href="{{ "/research" | relative_url }}">Research</a>
+          <a href="{{ "/publications" | relative_url }}">Publications</a>
+          <a href="{{ "/presentations" | relative_url }}">Presentations</a>
+          <a href="{{ "/teaching" | relative_url }}">Teaching</a>
+          <a href="{{ "/cv" | relative_url }}">CV</a>
+          <a href="{{ "/contact" | relative_url }}">Contact</a>
+        </nav>
+      </div>
+
+      <h1 class="project-name">{{ page.title | default: site.title }}</h1>
+      {% if page.description or site.description %}
+        <h2 class="project-tagline">{{ page.description | default: site.description }}</h2>
+      {% endif %}
+    </header>
+
+    <main class="main-content" role="main">
+      {{ content }}
+      <footer class="site-footer">
+        <span class="site-footer-owner">
+          © {{ "now" | date: "%Y" }} {{ site.title }}
+        </span>
+      </footer>
+    </main>
+  </body>
+</html>
