@@ -111,6 +111,10 @@
   min-width: 0;          /* prevents overflow in flex layouts */
 }
 
+.sticky-text a {
+  font-weight: 600;
+}
+
 /* Mobile: stack instead of sticky */
 @media (max-width: 900px) {
   .sticky-split {
