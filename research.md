@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Nate Cook
+title: Research
 permalink: /research/
 ---
 
