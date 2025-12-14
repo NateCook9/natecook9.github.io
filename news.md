@@ -1,6 +1,6 @@
 ---
 layout: default
-title: News
+title: Nate Cook
 ---
 
 [Home](index.md) | [Research](research.md) | [News](news.md) | [Contact](contact.md)
