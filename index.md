@@ -5,7 +5,6 @@ permalink: /
 ---
 
 # Home
-### Welcome
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 2; padding-right: 20px;">
     <p>Hi! I'm Nate Cook, a PhD student researching language, bilingualism, and emotion at the University of Illinois Chicago. This site is a hub for my academic work, ongoing projects, and research materials.</p>
