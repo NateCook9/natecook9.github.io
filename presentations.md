@@ -23,7 +23,7 @@ permalink: /presentations/
     
   </div>
   <div style="flex: 1;">
-    <img src="images/IMG_0309.JPG" alt="Nate Cook" 
+    <img src="images/IMG_0309.jpg" alt="Nate Cook" 
          style="width: 100%; height: auto; object-fit: cover;">
   </div>
 </div>
