@@ -14,7 +14,7 @@ permalink: /presentations/
   <section class="sticky-text">
     <p>
       Ward, J., <strong>Cook, N. E.</strong>, Imbaquingo, J., Rayborn, O., Medriano, A., Flores, A., &amp; Shin, G-H. (2026, June).
-      <em>Revealing biases in heritage language research: Methodological synthesis of the past 30 years.</em>.
+      <em>Revealing biases in heritage language research: Methodological synthesis of the past 30 years</em>.
       Poster presenting at EuroSLA 35, Lisbon, Portugal.
     </p>
     
