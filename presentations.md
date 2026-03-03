@@ -13,6 +13,12 @@ permalink: /presentations/
 
   <section class="sticky-text">
     <p>
+      Ward, J., <strong>Cook, N. E.</strong>, Imbaquingo, J., Rayborn, O., Medriano, A., Flores, A., &amp; Shin, G-H. (2026, June).
+      <em>Revealing biases in heritage language research: Methodological synthesis of the past 30 years.</em>.
+      Poster presenting at EuroSLA 35, Lisbon, Portugal.
+    </p>
+    
+    <p>
       <strong>Cook, N. E.</strong>, &amp; Shin, G-H. (2026, April).
       <em>Lexical and lexico-grammatical predictors of heritage Spanish bilinguals’ productive proficiency:
       A replication of Kyle and Eguchi (2023)</em>.
