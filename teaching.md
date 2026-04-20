@@ -19,7 +19,7 @@ permalink: /teaching/
     <ul style="line-height: 1.8;">
       <li><strong>Spanish as an Additional Language</strong> (SPN 101, 102, 103)</li>
       <li><strong>Introduction to Hispanic Linguistics</strong> (SPN 206)</li>
-      <li><strong>Introduction to Linguistics</strong></li>
+      <li><strong>Introduction to Linguistics</strong> (LING 150) </li>
     </ul>
 
     <h2><strong>Courses Taught at FSU </strong></h2>
