@@ -9,8 +9,14 @@ permalink: /teaching/
 ---
 
 <div class="sticky-split">
-  <aside class="sticky-media">
-    <img src="/images/IMG_0256.JPG" alt="Skyline from UH Photo">
+ <aside class="sticky-media">
+    <figure>
+      <img src="/images/IMG_0256.JPG" alt="Skyline of Chicago from UH">
+    </figure>
+
+    <figure>
+      <img src="/images/IMG_1429.JPG" alt="Palm Cathedral near FSU">
+    </figure>
   </aside>
 
   <section class="content-area" style="flex: 2;">
