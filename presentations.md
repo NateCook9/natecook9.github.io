@@ -13,7 +13,7 @@ permalink: /presentations/
     </figure>
 
     <figure>
-      <img src="/images/IMG_0309.jpg" alt="Nate Cook presenting research">
+      <img src="/images/IMG_0309.JPG" alt="Nate Cook presenting research">
       <div class="sticky-caption">EuroSLA 34 (Tromsø)</div>
     </figure>
   </aside>
