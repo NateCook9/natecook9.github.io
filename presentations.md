@@ -11,6 +11,11 @@ permalink: /presentations/
     <div class="sticky-caption">EuroSLA 34 (Tromsø)</div>
   </aside>
 
+    <aside class="sticky-media">
+    <img src="/images/AACL_2026.jpg" alt="Nate Cook presenting research">
+    <div class="sticky-caption">AACL 2006 (Gainesville, FL)</div>
+  </aside>
+
   <section class="sticky-text">
     <p>
       Ward, J., <strong>Cook, N. E.</strong>, Imbaquingo, J., Rayborn, O., Medriano, A., Flores, A., &amp; Shin, G-H. (2026, June).
