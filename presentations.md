@@ -9,9 +9,6 @@ permalink: /presentations/
   <aside class="sticky-media">
     <img src="/images/IMG_0309.jpg" alt="Nate Cook presenting research">
     <div class="sticky-caption">EuroSLA 34 (Tromsø)</div>
-  </aside>
-
-    <aside class="sticky-media">
     <img src="/images/AACL_2026.jpg" alt="Nate Cook presenting research">
     <div class="sticky-caption">AACL 2006 (Gainesville, FL)</div>
   </aside>
