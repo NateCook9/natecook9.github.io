@@ -14,7 +14,7 @@ permalink: /teaching/
   </aside>
 
   <section class="content-area" style="flex: 2;">
-    <h2><strong>Courses Taught at UIC </strong></h2>
+    <h2>Courses Taught at UIC</h2>
     <hr>
     <ul style="line-height: 1.8;">
       <li><strong>Spanish as an Additional Language</strong> (SPN 101, 102, 103)</li>
@@ -22,7 +22,7 @@ permalink: /teaching/
       <li><strong>Introduction to Linguistics</strong> (LING 150) </li>
     </ul>
 
-    <h2><strong>Courses Taught at FSU </strong></h2>
+    <h2>Courses Taught at FSU</h2>
     <hr>
     <ul style="line-height: 1.8;">
       <li><strong>Spanish as an Additional Language</strong> (SPN 101, 102, 103, 104)</li>
