@@ -18,7 +18,7 @@ permalink: /research/
     <p><strong>Language Usage in Heritage Speakers</strong>. This work examines linguistic features of spontaneous Spanish speech from Heritage speaker bilinguals in Chicago. It aims to reproduce Kyle and Eguchi (2023)'s methodological approach while additionally incorporating sociolinguistic factors known to influence to heritage language language use (generation, Spanish variety, age, age of arrival).</p>
 
     <h3>Other Interests</h3>
-    <p>I am also interested in other aspects of language and signal processing…</p>
+    <p>I am also interested in other aspects of natural language processing techniques. I am keen to learn more about how advanced ML techniques can reveal patterns in (bilingual) language use (e.g., Code-switching) and in specific speech communities (e.g., athiests, social conservatives).</p>
   </section>
 </div>
 
