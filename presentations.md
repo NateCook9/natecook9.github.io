@@ -5,28 +5,18 @@ permalink: /presentations/
 ---
 # Conference Presentations and Posters
 ---
-<!-- <div class="sticky-split">
+<div class="sticky-split">
   <aside class="sticky-media">
-    <img src="/images/AACL_2026.jpg" alt="Nate Cook presenting research">
-    <div class="sticky-caption">AACL 2026 (Gainesville, FL)</div>
-    <img src="/images/IMG_0309.jpg" alt="Nate Cook presenting research">
-    <div class="sticky-caption">EuroSLA 34 (Tromsø)</div>
-  </aside> -->
-
-<div class="sticky-split" style="display: flex; gap: 2rem;">
-  <aside class="sticky-media" style="flex: 1;">
     <figure>
-      <img src="/images/AACL_2026.jpg" alt="Nate Cook presenting at AACL">
-      <figcaption class="sticky-caption">AACL 2026 (Gainesville, FL)</figcaption>
+      <img src="/images/AACL_2026.jpg" alt="Nate Cook presenting research">
+      <div class="sticky-caption">AACL 2026 (Gainesville, FL)</div>
     </figure>
-    
+
     <figure>
-      <img src="/images/IMG_0309.jpg" alt="Nate Cook presenting at EuroSLA">
-      <figcaption class="sticky-caption">EuroSLA 34 (Tromsø)</figcaption>
+      <img src="/images/IMG_0309.jpg" alt="Nate Cook presenting research">
+      <div class="sticky-caption">EuroSLA 34 (Tromsø)</div>
     </figure>
   </aside>
-  <main style="flex: 2;">
-    </main>
     
   <section class="sticky-text">
     <p>
