@@ -8,7 +8,7 @@ permalink: /presentations/
 <div class="sticky-split">
   <aside class="sticky-media">
     <figure>
-      <img src="/images/AACL_2026.jpg" alt="Nate Cook presenting research">
+      <img src="/images/AACL_2026.JPG" alt="Nate Cook presenting research">
       <div class="sticky-caption">AACL 2026 (Gainesville, FL)</div>
     </figure>
 
