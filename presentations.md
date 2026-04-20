@@ -17,6 +17,14 @@ permalink: /presentations/
       <em>Revealing biases in heritage language research: Methodological synthesis of the past 30 years</em>.
       Poster presenting at EuroSLA 35, Lisbon, Portugal.
     </p>
+
+    <p>
+      <strong>Cook, N. E.</strong>, &amp; Shin, G-H. (2026, April).
+      <em>Lexical and lexico-grammatical predictors of heritage Spanish bilinguals’ productive proficiency:
+      A replication of Kyle and Eguchi (2023)</em>.
+      Poster accepted at the Computation Research Symposium 2026,
+      University of Illinois Chicago, IL, USA.
+    </p>
     
     <p>
       <strong>Cook, N. E.</strong>, &amp; Shin, G-H. (2026, April).
