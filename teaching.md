@@ -8,12 +8,20 @@ permalink: /teaching/
 
 ---
 
-<!-- <div class="sticky-split">
+<div class="sticky-split">
   <aside class="sticky-media">
-    <img src="/images/DSC06533.jpg" alt="Nate Cook California Headshot">
-  </aside> -->
+    <img src="/images/IMG_6681.HEIC" alt="Nate Cook Little Village Photo">
+  </aside>
 
   <section class="sticky-text">
-    <p><strong>Courses Taught</strong>. Spanish as an additional language. Introduction to Hispanic Linguistics.</p>
+    <main class="content-area" style="flex: 2;">
+    <h2><strong>Courses Taught</strong></h2>
+    
+    <ul>
+      <li>Spanish as an additional language.</li>
+      <li>Introduction to Hispanic Linguistics.</li>
+      <li>Introduction to Linguistics.</li>
+    </ul>
+  </main>
 
 </div>
