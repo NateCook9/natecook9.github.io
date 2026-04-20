@@ -10,18 +10,23 @@ permalink: /teaching/
 
 <div class="sticky-split">
   <aside class="sticky-media">
-    <img src="/images/IMG_6681.HEIC" alt="Nate Cook Little Village Photo">
+    <img src="/images/IMG_0256.JPG" alt="Skyline from UH Photo">
   </aside>
 
-  <section class="sticky-text">
-    <main class="content-area" style="flex: 2;">
-    <h2><strong>Courses Taught</strong></h2>
-    
-    <ul>
-      <li>Spanish as an additional language.</li>
-      <li>Introduction to Hispanic Linguistics.</li>
-      <li>Introduction to Linguistics.</li>
+  <section class="content-area" style="flex: 2;">
+    <h2><strong>Courses Taught at UIC </strong></h2>
+    <hr>
+    <ul style="line-height: 1.8;">
+      <li><strong>Spanish as an Additional Language</strong> (SPN 101, 102, 103)</li>
+      <li><strong>Introduction to Hispanic Linguistics</strong> (SPN 206)</li>
+      <li><strong>Introduction to Linguistics</strong></li>
     </ul>
-  </main>
 
+    <h2><strong>Courses Taught at FSU </strong></h2>
+    <hr>
+    <ul style="line-height: 1.8;">
+      <li><strong>Spanish as an Additional Language</strong> (SPN 101, 102, 103, 104)</li>
+    </ul>
+    
+ </section>
 </div>
