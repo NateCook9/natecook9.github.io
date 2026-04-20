@@ -12,10 +12,12 @@ permalink: /teaching/
  <aside class="sticky-media">
     <figure>
       <img src="/images/IMG_0256.JPG" alt="Skyline of Chicago from UH">
+      <div class="sticky-caption">Chicago skyline from University Hall (UIC)</div>
     </figure>
 
     <figure>
       <img src="/images/IMG_1429.JPG" alt="Palm Cathedral near FSU">
+      <div class="sticky-caption">Cathedral of Palms Trail near FSU (Crawfordville, FL)</div>
     </figure>
   </aside>
 
