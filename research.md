@@ -36,8 +36,9 @@ permalink: /research/
       This work explores Mandarin Chinese word acquisition within cross situational word learning (CSWL) paradigms. Via web-based psycholinguistic experiments, participants associate sounds (Mandarin words: 🔊 “橙子”) with images (word referents: [🍊]) by tracking statistical patterns by which both stimuli cooccur. 
       
       <ul>
-        <li>The first experiment [Click here](https://natecook9.github.io/CSWL_Study/) explores the role of emotional primes in Mandarin statistical learning, specifically if seeing emotional facial expressions increases accuracy and reduces response times across trial as well as if specific emotional facial expressions (disgust, fear, happy) hold particular influence on statistical learning outcomes.</li>
-        <li>The second experiment [Click here](https://natecook9.github.io/CSWL_Study2/)examines if statistical learning is sensitive to the auditory input: are word associations learned equally when presented with machine- and human-produced speech?</li>
+        <li>The first experiment [Click here](https://natecook9.github.io/CSWL_Study) explores the role of emotional primes in Mandarin statistical learning, specifically if seeing emotional facial expressions increases accuracy and reduces response times across trial as well as if specific emotional facial expressions (disgust, fear, happy) hold particular influence on statistical learning outcomes.</li>
+        <li>The second experiment [Click here](https://natecook9.github.io/CSWL_Study2)examines if statistical learning is sensitive to the auditory input: are word associations learned equally when presented with machine- and human-produced speech?</li>
+      </ul>
     </details>
 
     <h3>Other Interests</h3>
