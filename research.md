@@ -30,7 +30,7 @@ permalink: /research/
 
     <br>
 
-    <details> 
+    <details markdown="1"> 
       <summary><strong>Statistical Word Learning</strong></summary>
 
       This work explores Mandarin Chinese word acquisition within cross situational word learning (CSWL) paradigms. Via web-based psycholinguistic experiments, participants associate sounds (Mandarin words: 🔊 “橙子”) with images (word referents: [🍊]) by tracking statistical patterns by which both stimuli cooccur. 
