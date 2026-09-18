@@ -22,7 +22,7 @@ permalink: /presentations/
     <p>
       Ward, J., <strong>Cook, N. E.</strong>, Imbaquingo, J., Rayborn, O., Medriano, A., Flores, A., &amp; Shin, G-H. (2026, June).
       <em>Revealing research biases: Methodological review of heritage language research</em>.
-      Poster presenting at EuroSLA 35, Lisbon, Portugal.
+      Poster presented at EuroSLA 35, Lisbon, Portugal.
     </p>
 
     <p>
