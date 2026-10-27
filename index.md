@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Nate Cook
-description: University of Illinois Chicago | PhD student | Bilingualism, Emotion, Psychophysiology (EDA, EEG), Computational Linguistics/NLP
+description: University of Illinois Chicago | PhD candidate | Bilingualism, Emotion, Psychophysiology (EDA, EEG), Computational Linguistics/NLP
 permalink: /
 ---
 
@@ -25,8 +25,8 @@ permalink: /
     </p>
 
     <p>
-      I am also an enthusiastic teacher. I love teaching Spanish as an additional language
-      and enjoy using a task-based language teaching approach.
+      I am also an enthusiastic teacher. While I adore teaching Linguistics, I also love teaching Spanish as an additional language
+      using the [task-based language teaching approach] (https://en.wikipedia.org/wiki/Task-based_language_teaching).
     </p>
 
     <p>
