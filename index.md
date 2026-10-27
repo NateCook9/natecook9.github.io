@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Nate Cook
-description: University of Illinois Chicago | PhD candidate | Bilingualism, Emotion, Pyscholinguistics, Computational Linguistics/NLP
+description: University of Illinois Chicago | PhD candidate | Bilingualism, Emotion, Psycholinguistics, Computational Linguistics/NLP
 permalink: /
 ---
 
