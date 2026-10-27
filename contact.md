@@ -6,5 +6,5 @@ permalink: /contact/
 
 # Contact
 
-- email: [ncook9@uic.edu](mailto:ncook9@uic.edu)
+- email: [necook05@outlook.com](mailto:necook05@outlook.com)
 - github: [natecook9](https://github.com/NateCook9)
