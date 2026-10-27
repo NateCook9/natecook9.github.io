@@ -26,7 +26,7 @@ permalink: /
 
     <p>
       I am also an enthusiastic teacher. While I adore teaching Linguistics, I also love teaching Spanish as an additional language
-      using the [task-based language teaching approach] (https://en.wikipedia.org/wiki/Task-based_language_teaching).
+      using the [task-based language teaching approach](https://en.wikipedia.org/wiki/Task-based_language_teaching).
     </p>
 
     <p>
